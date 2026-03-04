@@ -40,3 +40,4 @@ Por un tema de tiempos el proyecto cuenta con varias deudas técnicas.
 - El proyecto funciona a nivel local.
 - El autocompletable se puede robustecer más y puede quedar mas UX , porque hoy pone el codigo del pais.
 - Se puede implementar una alerta cuando se pone un mail que ya votó.
+- El codigo puede estar aun mas limpio.
